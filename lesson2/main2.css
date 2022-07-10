@@ -1,0 +1,47 @@
+.cont{
+  height: 1200px;
+  width: 1200px;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.first{
+  width: 400px;
+  height: 200px;
+  background: #b3d4fc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.box{
+  width: 400px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.small{
+  width: 425px;
+  height: 200px;
+  background: cornflowerblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 5px;
+}
+.case{
+  width: 400px;
+  height: 400px;
+  background: #b3d4fc;
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
