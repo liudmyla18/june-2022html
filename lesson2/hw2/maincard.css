@@ -1,0 +1,45 @@
+
+.outside{
+  height: 400px;
+  width: 800px;
+  background: #cccccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border:1px solid slategray;
+}
+.card{
+  height: 200px;
+  width: 200px;
+  background: whitesmoke;
+  justify-content: center;
+align-items:center;
+  margin: 20px;
+  border:1px solid slategray;
+}
+.star {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.button{
+  height: 30px;
+  width: 80px;
+  background: ivory;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title{
+
+  display: flex;
+  text-align: center;
+  padding-left: 15px;
+}
+.h5 {
+  color: #888888;
+  display: flex;
+  text-align: center;
+  padding-left: 10px;
+}
