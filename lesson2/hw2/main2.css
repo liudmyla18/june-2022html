@@ -1,8 +1,7 @@
+
 .cont{
-  height: 1200px;
-  width: 1200px;
-  justify-content: center;
-  align-items: center;
+display: flex;
+  flex-wrap: wrap;
 
 
 }
@@ -10,10 +9,12 @@
   width: 400px;
   height: 200px;
   background: #b3d4fc;
+  color: white;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-bottom: 10px;
+  margin-left: 30%;
 }
 .box{
   width: 400px;
@@ -21,7 +22,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
-
+  margin-right: 50%;
+  margin-left: 30%;
 
 }
 .small{
@@ -31,17 +33,17 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  text-align: center;
-  margin: 5px;
+  color: white;
+  margin: 1px;
 }
 .case{
   width: 400px;
-  height: 400px;
+  height: 300px;
   background: #b3d4fc;
+  color: white;
   margin-top: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
-
+  margin-left: 30%;
 }
-
