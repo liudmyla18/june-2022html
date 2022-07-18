@@ -5,11 +5,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+.menu {
+  width: 600px;
+  height: 100px;
+  background: #b3d4fc;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+
 
 }
 .bot{
   width: 600px;
-  height: 200px;
+  height: 400px;
   background: #555555;
 
 }
@@ -29,4 +38,16 @@
   height: 100px;
   background: darkgreen;
   border-radius: 10px;
+}
+.xxx{
+  width: 80px;
+  height: 40px;
+  background: greenyellow;
+  border-radius: 10px;
+  position: relative;
+  top: 0px;
+  right: 200px;
+}
+.menu i{
+  border:1px red;
 }
